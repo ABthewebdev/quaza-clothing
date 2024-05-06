@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { ClerkProvider } from "@clerk/nextjs";
 import { ModelProvider } from "@/providers/modelProvider";
+import prismadb from "@/lib/prismadb";
 
 const inter = Inter({ subsets: ["latin"] });
 

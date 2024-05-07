@@ -1,5 +1,5 @@
 {
-  "name": "keto-cart",
+  "name": "quaza-clothing",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -14,10 +14,13 @@
     "@prisma/client": "^5.13.0",
     "@radix-ui/react-dialog": "^1.0.5",
     "@radix-ui/react-label": "^2.0.2",
+    "@radix-ui/react-popover": "^1.0.7",
     "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-toast": "^1.1.5",
     "axios": "^1.6.8",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "cmdk": "^1.0.0",
     "lucide-react": "^0.378.0",
     "next": "14.2.3",
     "react": "^18",
